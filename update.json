@@ -1,0 +1,12 @@
+{
+    "latest": {
+      "version": "1.0",
+      "manifestUrl": "https://yourcdn.com/my-pack/manifest.json"
+    },
+    "versions": [
+      {
+        "version": "1.0",
+        "manifestUrl": "https://yourcdn.com/my-pack/manifest.json"
+      }
+    ]
+  }
